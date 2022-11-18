@@ -4,6 +4,4 @@ I am a developer and a cybersecurity enthusiast! I am studying computer science 
 
 
 ![Phobetore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phobetore&count_private=true&show_icons=true&theme=codeSTACKr)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phobetore&layout=compact&theme=codeSTACKr)
