@@ -1,4 +1,4 @@
-### Hi there, I'm π-thagore 👋
+# Hi there, I'm π-thagore 👋
 
 I am a developer and a cybersecurity enthusiast! I am studying computer science in France and I plan to continue on the path of cybersecurity!
 
@@ -6,4 +6,4 @@ I am a developer and a cybersecurity enthusiast! I am studying computer science 
 ![Phobetore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phobetore&count_private=true&show_icons=true&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phobetore&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phobetore&layout=compact&theme=tokyonight)
